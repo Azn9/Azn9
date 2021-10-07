@@ -4,7 +4,7 @@ I'm Axel Joly, a french developer.
 
 🇫🇷 French<br>
 🎂 20 Yo<br>
-🎓 Future student at French engineer school ENSSAT<br>
+🎓 Student at French engineer school ENSSAT<br>
 ⌨️ Currently working for @Ekalia !<br>
 👀 Interested in everything, I sometimes contribute to open source projects<br>
 🖥️ Mainly doing Java stuff, but I also code in Kotlin, C, C++, C#, HTML, CSS, PHP... and some other strange languages<br>

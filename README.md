@@ -3,7 +3,7 @@
 I'm Axel Joly, a french developer.
 
 🇫🇷 French<br>
-🎂 21 Yo<br>
+🎂 22 Yo<br>
 🎓 Student at French engineering school "ENSSAT"<br>
 ⌨️ Currently working for @Ekalia !<br>
 👀 Interested in everything, I sometimes contribute to open source projects<br>

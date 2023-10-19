@@ -9,11 +9,12 @@ I'm Axel Joly, also known by the username Azn9.
 ⌨️ Currently working for [@Ekalia](https://ekalia.fr) as an arbitrator, a Senior Java developer and a System Administrator!<br>
 👀 Interested in everything, I sometimes contribute to open-source projects<br>
 📫 How to reach me: 
-- Website: [azn9.dev](https://azn9.dev)
+- Website: [https://azn9.dev](https://azn9.dev)
 - Discord: @azn9
 - Contact: [contact@azn9.dev](mailto:contact@azn9.dev)
 - Professional contact: [axel@axeljoly.dev](mailto:axel@axeljoly.dev)
-<br>
+- LinkedIn: https://www.linkedin.com/in/axel-joly-2007281b2/
+<br>          
 
 ## I am...
 

@@ -39,7 +39,7 @@ I maintain...<br>
 I contribute to...<br>
 ![Discord4J](https://github-readme-stats.vercel.app/api/pin/?username=Discord4J&repo=Discord4J&show_owner=true)
 
-<img height=200 align="center" src="https://ghreadmestats.azn9.dev/api?username=Azn9&count_private=true&show_icons=true&show=reviews&include_all_commits=true&rank_icon=github" alt="Refresh the page if the image don't load" />
+<img height=200 align="center" src="https://ghreadmestats.azn9.dev/api?username=Azn9&count_private=true&show_icons=true&show=reviews&rank_icon=github" alt="Refresh the page if the image don't load" />
 
 ### A jack of all trades
 ![All](https://skillicons.dev/icons?i=blender,bash,ansible,arduino,bootstrap,c,cs,cpp,cloudflare,cmake,css,discord,docker,figma,gcp,git,github,gitlab,go,gradle,grafana,html,idea,java,js,kotlin,kubernetes,linux,md,maven,mongodb,mysql,nginx,php,postman,processing,prometheus,py,rabbitmq,raspberrypi,react,redis,regex,stackoverflow,sentry,tailwind,ts,unity,unreal,visualstudio,vscode&theme=light)

@@ -36,6 +36,8 @@ I'm Axel Joly, also known by the username Azn9.
 I maintain...<br>
 ![Jetbrains-Discord-Integration](https://github-readme-stats.vercel.app/api/pin/?username=Azn9&repo=Jetbrains-Discord-Integration&show_owner=true)
 
+<a href="https://plugins.jetbrains.com/plugin/23420-discord-integration-v2"><img src="https://github.com/Azn9/JetBrains-Discord-Integration/blob/develop/marketplace/download.png?raw=true" alt="Download from the marketplace" height="50px"/></a>
+
 I contribute to...<br>
 ![Discord4J](https://github-readme-stats.vercel.app/api/pin/?username=Discord4J&repo=Discord4J&show_owner=true)
 

@@ -3,7 +3,6 @@
 I'm Axel Joly, also known by the username Azn9.
 
 🇫🇷 French<br>
-🇨🇦 Currently living in Canada for studies<br>
 🎂 23 Yo<br>
 🎓 I am an engineering student at ENSSAT (Lannion, France). I am also in a double degree of master's degree in computer science at the University of Sherbrooke, Canada<br>
 ⌨️ Currently working for [@Ekalia](https://ekalia.fr) as an arbitrator, a Senior Java developer and a System Administrator!<br>

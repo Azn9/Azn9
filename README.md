@@ -6,7 +6,6 @@ I'm Axel Joly, also known by the username Azn9.
 🎂 25 Yo<br>
 🎓 I am a computer science engineer, graduated from ENSSAT (Lannion, France) with a double degree — a Master’s in Computer Science from the University of Sherbrooke, Canada<br>
 🏢 Currently working for CA-GIP as a CloudOps engineer<br>
-⌨️ Lead DevOps & systems administrator, Senior Java developer, and arbitrator for [Ekalia](https://ekalia.fr)<br>
 👀 Interested in everything, I sometimes contribute to open-source projects<br>
 📫 How to reach me: 
 - Discord: @azn9

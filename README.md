@@ -15,10 +15,9 @@ I'm Axel Joly, also known by the username Azn9.
 <br>
 
 <center>
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azn9&theme=buefy">
   <p>
-    <img width="31%" src="https://raw.githubusercontent.com/Azn9/github-profile-summary-cards/master/profile-summary-card-output/buefy/1-repos-per-language.svg" alt="Refresh the page if the image don't load">
-    <img width="31%" src="https://raw.githubusercontent.com/Azn9/github-profile-summary-cards/master/profile-summary-card-output/buefy/2-most-commit-language.svg" alt="Refresh the page if the image don't load">
+    <img width="30%" src="https://raw.githubusercontent.com/Azn9/github-profile-summary-cards/master/profile-summary-card-output/buefy/1-repos-per-language.svg" alt="Refresh the page if the image don't load">
+    <img width="30%" src="https://raw.githubusercontent.com/Azn9/github-profile-summary-cards/master/profile-summary-card-output/buefy/2-most-commit-language.svg" alt="Refresh the page if the image don't load">
     <img width="37%" src="https://ghreadmestats.azn9.dev/api?username=Azn9&count_private=true&show_icons=true&show=reviews&rank_icon=github" alt="Refresh the page if the image don't load" />
   </p>
   <p>
